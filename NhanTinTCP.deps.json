@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NhanTinTCP/1.0.0": {
+        "runtime": {
+          "NhanTinTCP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NhanTinTCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
